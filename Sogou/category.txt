@@ -1,0 +1,12 @@
+1	auto
+2	business
+3	cul
+4	health
+5	house
+6	it
+7	learning
+8	news
+9	sports
+10	travel
+11	women
+12	yule
